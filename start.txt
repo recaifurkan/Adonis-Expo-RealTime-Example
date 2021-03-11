@@ -1,0 +1,21 @@
+Microsoft Windows [Version 10.0.18363.1198]
+(c) 2019 Microsoft Corporation. Tüm hakları saklıdır.
+
+F:\Work\zippyexample>cd client
+
+F:\Work\zippyexample\client>expo init client1
+√ Choose a template: » blank                 a minimal app as clean as an empty canvas
+empty canvas
+√ Downloaded and extracted project files.
+
+� Using Yarn to install packages. You can pass --npm to use npm instead.  
+
+× Something went wrong installing JavaScript dependencies. Check your yarn logs. Continuing to initialize the app.
+
+llowing yarn commands.
+                                  he directory a
+- cd client1                      ommands.      nd run one of the followin
+- yarn start # you can open iOS, Android, or web from here, or run them directly with the commands belndroid, or webow.                               ith the comman from here, or run them di
+- yarn android
+- yarn ios # requires an iOS device or macOS for access to an iOS sie or macOS for access to an iOS simulatomulator
+- yarn web

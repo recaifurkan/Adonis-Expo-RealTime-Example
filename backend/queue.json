@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "pm2-adonis",
+      "script": "node",
+      "args": [
+        "ace",
+        "queue:work",
+        "--queue=price"
+      ]
+    }
+  ]
+}
